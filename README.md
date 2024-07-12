@@ -5,7 +5,7 @@
 - <b>Building Active Directory</b>
   - [Active Directory Homelab Project](https://github.com/MatthewSzewczyk/Active-Directory-Lab/tree/main)
 - <b>Vulnerability Scanning with OpenVAS</b>
-  - [Next project link](Link) </b>
+  - [Vulnerability Scanning Homelab Project](https://github.com/MatthewSzewczyk/VulnerabilityScanning) </b>
 
 <h2>📺 YouTube Videos</h2>
 
