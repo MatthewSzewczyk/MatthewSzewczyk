@@ -2,23 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building Active Directory</b>
-  - [Active Directory Homelab Project](https://github.com/MatthewSzewczyk/Active-Directory-Lab/tree/main)
-- <b>Vulnerability Scanning with OpenVAS</b>
-  - [Vulnerability Scanning Homelab Project](https://github.com/MatthewSzewczyk/VulnerabilityScanning) </b>
+- <b>Home Lab Projects</b>
+  - [Creating Domain with Active Directory](https://github.com/MatthewSzewczyk/Active-Directory-Lab/tree/main)
+  - [Vulnerability Scanning with OpenVas](https://github.com/MatthewSzewczyk/VulnerabilityScanning) </b>
+  - [Microsoft Sentinel Failed Login World Map Viewer](https://github.com/MatthewSzewczyk/Azure-Sentinel-VM-Scan) </b>
 
-<h2>📺 YouTube Videos</h2>
-
-- [Name of video](link, repeat same for rest)
 
 <h2>Certifications:</h2>
-  - <b>Pentest+</b>
-  - <b>CySA+</b>
-  - <b>Security+</b>
-  - <b>Network+</b>
-  - <b>ISC2 SSCP</b>
-  - <b>LPI Linux Essentials</b>
-<h2> 🤳 Connect with me:</h2>
+<ul>
+  <li>CompTIA Pentest+</li>
+  <li>CompTIA CySA+</li>
+  <li>CompTIA Security+</li>
+  <li>CompTIA Network+</li>
+  <li>ISC2 SSCP</li>
+  <li>LPI Linux Essentials</li>
+</ul>
+
+<h2> 🤳 Connect with me:<h2/>
 
 
 [<img align="left" alt="MatthewSzewczyk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
